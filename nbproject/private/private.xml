@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/apostas/application/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/controllers/painel_adm.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/views/painel-nav-usuario.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/views/adicionar-jogo.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/models/campeonatos_model.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/views/painel-apostas.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/controllers/painel.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/views/painel-barra-adm.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/models/times_model.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/application/views/adicionar-time.php</file>
+            <file>file:/C:/xampp/htdocs/apostas/public/css/style-dashboard.css</file>
+        </group>
+    </open-files>
+</project-private>
